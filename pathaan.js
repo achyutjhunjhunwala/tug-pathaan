@@ -68,7 +68,7 @@ async function run(specfile) {
 
   saveResponse(specfile, geminiResponse);
 
-  // await notifyApi(geminiResponse);
+  await notifyApi(geminiResponse);
 
   console.log(`\n✓ Done\n`);
 }
