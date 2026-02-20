@@ -1,0 +1,16 @@
+{
+  "name": "tug-pathaan",
+  "version": "1.0.0",
+  "description": "CLI tool that runs Gemini prompts from spec files and announces results via Google Home",
+  "main": "pathaan.js",
+  "bin": {
+    "pathaan": "./pathaan.js"
+  },
+  "scripts": {
+    "start": "node pathaan.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
