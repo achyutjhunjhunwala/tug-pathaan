@@ -16,7 +16,7 @@ Based on your comprehensive analysis, you must assign one of the following ratin
 *   Strong Sell
 
 **Formatting Instructions:**
-You must output the final results exactly in the following format. 
+You must output the final results exactly in the following format and withing 500 characters:
 
 # Hola AJ, Your market analysis for today
 

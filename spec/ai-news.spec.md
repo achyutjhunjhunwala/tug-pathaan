@@ -16,6 +16,7 @@ For each of the top 5 headlines, provide:
 3.  **Summary/Context:** 1-2 sentences explaining the development and why it is significant to the broader AI landscape.
 
 You must make sure that the generated content is accurate, up-to-date, and strictly adheres to the guidelines above. The goal is to provide a clear snapshot of the most critical AI developments from the last 48 hours and it must be a gist of the most impactful news in the AI industry.
+The generated output must not cross 500 characters. So it needs to be perfectly concise 
 
 **Formatting Instructions:**
 You must output the final results exactly in the following format. 
